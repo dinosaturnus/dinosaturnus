@@ -25,7 +25,6 @@
 <a href="https://telegram.org/"><img alt="Telegram" height="50" src="logo/Telegram.png" width="50"/></a>
 </div>
 
-Вы можете связаться со мной через:
-
-<img alt="Telegram" height=5% src="logo/Telegram.png" width="50"/> Telegram - <a target="_blank" href="https://t.me/saturnus_spiritus">@saturnus_spiritus</a>
-Gmail - <a target="_blank" href="mailto:alinakrivosheeva99@gmail.com">alinakrivosheeva99@gmail.com</a>
+Вы можете связаться со мной через:\
+:pager:	Telegram - <a target="_blank" href="https://t.me/saturnus_spiritus">@saturnus_spiritus</a>\
+:envelope: Gmail - <a target="_blank" href="mailto:alinakrivosheeva99@gmail.com">alinakrivosheeva99@gmail.com</a>
