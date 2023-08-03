@@ -27,5 +27,5 @@
 
 Вы можете связаться со мной через:
 
-<img alt="Telegram" height="5%" src="logo/Telegram.png" width="50"/> Telegram - <a target="_blank" href="https://t.me/saturnus_spiritus">@saturnus_spiritus</a>
+<img alt="Telegram" height=5% src="logo/Telegram.png" width="50"/> Telegram - <a target="_blank" href="https://t.me/saturnus_spiritus">@saturnus_spiritus</a>
 Gmail - <a target="_blank" href="mailto:alinakrivosheeva99@gmail.com">alinakrivosheeva99@gmail.com</a>
