@@ -24,3 +24,8 @@
 <a href="https://www.atlassian.com/software/jira"><img alt="Jira" height="50" src="logo/Jira.png" width="50"/></a>  
 <a href="https://telegram.org/"><img alt="Telegram" height="50" src="logo/Telegram.png" width="50"/></a>
 </div>
+
+Вы можете связаться со мной через:
+
+<img alt="Telegram" height="10" src="logo/Telegram.png" width="50"/> Telegram - <a target="_blank" href="https://t.me/saturnus_spiritus">@saturnus_spiritus</a>
+Gmail - <a target="_blank" href="mailto:alinakrivosheeva99@gmail.com">alinakrivosheeva99@gmail.com</a>
