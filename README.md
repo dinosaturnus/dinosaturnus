@@ -1,4 +1,4 @@
-### Привет! :space_invader:	 Меня зовут Алина.
+## Привет! :space_invader:	 Меня зовут Алина.
 
 ### Я QA-инженер.
 - Работаю инженером по тестированию ПО 1,5 года;
@@ -25,6 +25,6 @@
 <a href="https://telegram.org/"><img alt="Telegram" height="50" src="logo/Telegram.png" width="50"/></a>
 </div></br>
 
-### Вы можете связаться со мной через:
+## Вы можете связаться со мной через:
 :pager:	Telegram - <a target="_blank" href="https://t.me/saturnus_spiritus">@saturnus_spiritus</a>\
 :envelope: Gmail - <a target="_blank" href="mailto:alinakrivosheeva99@gmail.com">alinakrivosheeva99@gmail.com</a>
