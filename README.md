@@ -7,7 +7,7 @@
 :link: Мои проекты, написанные в рамках курса QA.GURU: <a target="_blank" href="https://github.com/dinosaturnus/final_project_tastycoffee_web">UI-тестирование интернет-магазина Tasty Coffee</a>, 
 <a target="_blank" href="https://github.com/dinosaturnus/final_project_reqres.in_api">API-тестирование сайта Regres.in</a>
 
-Используемый стек:
+## Используемый стек:
 <div align="center">
 <a href="https://www.java.com/"><img alt="Java" height="50" src="logo/Java.svg" width="50"/></a>
 <a href="https://selenide.org/"><img alt="Selenide" height="50" src="logo/Selenide.png" width="50"/></a>
