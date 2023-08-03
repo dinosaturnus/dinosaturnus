@@ -5,7 +5,7 @@
 - Изучаю автоматизацию тестирования на Java.
 
 :link: Мои проекты, написанные в рамках курса QA.GURU: <a target="_blank" href="https://github.com/dinosaturnus/final_project_tastycoffee_web">UI-тестирование интернет-магазина Tasty Coffee</a>, 
-<a target="_blank" href="https://github.com/dinosaturnus/final_project_reqres.in_api">API-тестирование сайта Regres.in</a>
+<a target="_blank" href="https://github.com/dinosaturnus/final_project_reqres.in_api">API-тестирование сайта Reqres.in</a>
 
 ## Используемый стек:
 <div align="center">
